@@ -1,0 +1,11 @@
+Week 1 – Python Learning Documentation
+
+Day 1
+
+* Studied the fundamentals of Python, including the origin of Python, common use cases, and widely used development tools.
+
+* Practiced basic Python programs such as arithmetic operations and function calls.
+
+* Learned the LEGB rule (Local, Enclosing, Global, Built-in) to understand Python’s variable scope and name resolution.
+
+* Understood that Python follows an indentation-based syntax, where indentation defines code blocks instead of braces.
