@@ -9,3 +9,9 @@ Day 1
 * Learned the LEGB rule (Local, Enclosing, Global, Built-in) to understand Python’s variable scope and name resolution.
 
 * Understood that Python follows an indentation-based syntax, where indentation defines code blocks instead of braces.
+
+Day 2
+
+* Again learnt few conditions statements, input function, loop function and string manipulations
+
+* Worked out the functions in the real world examples like uber, zomato and amazon sites, just the basic things.
