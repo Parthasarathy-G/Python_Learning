@@ -25,3 +25,13 @@ Day 3
 * Learned about inheritance and polymorphism for code reusability and extensibility.
 
 * Explored encapsulation and access modifiers (public, private, protected) for data hiding.
+
+Day 4
+
+* Studied exception handling using try, except, and finally blocks to manage errors gracefully.
+
+* Learned about built-in exceptions and how to create custom exceptions for specific error scenarios.
+
+* Practiced file handling operations including reading, writing, and appending to files.
+
+* Explored working with different file formats such as text files, CSV, and JSON for data persistence.
