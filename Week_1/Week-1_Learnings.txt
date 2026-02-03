@@ -35,3 +35,12 @@ Day 4
 * Practiced file handling operations including reading, writing, and appending to files.
 
 * Explored working with different file formats such as text files, CSV, and JSON for data persistence.
+
+
+Day 5
+
+* Studied Inheritance and its types
+
+* Created a constructor and class object by basic examples
+
+
