@@ -23,9 +23,22 @@
 
 #Example
 
-feedback = input("Enter your feedback: ")
+# feedback = input("Enter your feedback: ")
 
-with open("feedback_log.txt", "a") as log:
-    log.write(feedback + "\n")
+# with open("feedback_log.txt", "a") as log:
+#     log.write(feedback + "\n")
 
-print("Thanks for your feedback")
+# print("Thanks for your feedback")
+
+
+# with open("file.txt") as f:
+#     while True:
+#         line = f.readline()
+#         if not line:
+#             break
+#         if "ERROR" in line:
+#             print("Found error:", line.strip())
+
+with open("file.txt") as f:
+    for _ in range(10):
+        print(f.readline().strip())
