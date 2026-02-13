@@ -1,0 +1,9 @@
+Week 2 – Python Learning Documentation
+
+Day 8
+
+* Learnt about exception handling and types of exception and file handling few topics.
+
+* Installed MySQL and PyMSQL for jdbc connection.
+
+* Created a sample test databse in MySQL.
