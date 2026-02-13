@@ -46,3 +46,9 @@ Day 5
 Day 6
 
 * Studied Polymorphism and access specifiers  and access methods
+
+Day 7
+
+* Studied about encapsulation and class, instance, method 
+
+* File managment for files to read and write, append file text
