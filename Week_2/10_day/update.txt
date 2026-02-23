@@ -1,0 +1,1 @@
+Today i have learnt to install anaconda and its dependies in my pc and set up a virtual  environment for further learning process
