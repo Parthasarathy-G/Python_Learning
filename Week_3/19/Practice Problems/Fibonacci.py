@@ -1,3 +1,7 @@
+### Assignment 1: Fibonacci Sequence with Memoization
+
+## Define a recursive function to calculate the nth Fibonacci number using memoization. Test the function with different inputs.
+
 def fib(n,memo={}):
 
     if n <= 1:
