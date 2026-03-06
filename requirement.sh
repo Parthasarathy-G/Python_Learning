@@ -1,0 +1,1 @@
+pip install ipykernel numpy pandas matplotlib scikit-learn
