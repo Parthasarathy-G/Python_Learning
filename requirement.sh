@@ -1,1 +1,1 @@
-pip install ipykernel numpy pandas matplotlib scikit-learn lxml html5lib beautifulsoup4 openpyxl seaborn
+pip install ipykernel numpy pandas matplotlib scikit-learn lxml html5lib beautifulsoup4 openpyxl seaborn bs4
